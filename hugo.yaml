@@ -50,7 +50,7 @@ languages:
             url: works/
           - identifier: Blog
             name: Blogs
-            url: https://onion0904.github.io/blog
+            url: https://blog-40i.pages.dev/
       menu:
         main:
           - identifier: About
@@ -63,7 +63,7 @@ languages:
             weight: 2
           - identifier: Blog
             name: Blogs
-            url: https://onion0904.github.io/blog
+            url: https://blog-40i.pages.dev/
             weight: 3
 
 outputs:
