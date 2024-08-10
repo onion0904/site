@@ -5,7 +5,7 @@
 - [発表スライド](https://docs.google.com/presentation/d/1bNdvSHjQJgkc3sBTr5cJnLq0E8cXCkGoAFBnnhr3UHI/edit#slide=id.p)
 
 # サマーワークショップ
-- 大規模言語モデルを用いてエージェントを作り、条件に応じた未来をシミュレーションする
+- 大規模言語モデルを用いてエージェントを作り、シミュレーションする
 - 期間：2023年8/7～8/9
 - 使用技術：chatGPT4
 - [発表スライド](https://docs.google.com/presentation/d/1alyUAb6tUoM08EhsggOKDYZrV9TXqdYqYkxPsib9XRM/edit#slide=id.p)
