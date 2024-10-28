@@ -37,3 +37,9 @@
 - 期間:2024年8/5～8/10
 - 使用技術: gin,gorm,MySQL
 - [github](https://github.com/onion0904/my-todo-app)
+
+# segon_pix(画像投稿アプリ)
+- 期間:2024年9月27～
+- 使用技術: echo,gorm,MySQL,docker,GCP,Mailgun...
+- [github](https://github.com/onion0904/segon_pix)
+- [発表スライド](https://www.canva.com/design/DAGTpGOK5uw/5Z6bmOWyww7FIWXDiXPEbg/edit)
