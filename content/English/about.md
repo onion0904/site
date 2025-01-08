@@ -5,24 +5,31 @@ slug = ""
 +++
 # About Me
 
-HN: 鬼オン(onion)    
-名前: 太田丈翔(おおた　たける)    
-誕生日: 2004/09/04  
-所属: 会津大学31期生(zli,Rems)   
-出身: 埼玉   
+- HN: 鬼オン(onion)    
+- 名前: 太田丈翔(おおた たける)    
+- 誕生日: 2004/09/04  
+- 所属: 会津大学31期生,Zli  
+- 出身: 埼玉   
 
 # 趣味
 
-カラオケ   
-うまい飯行く 
-旅行  
-スキー・スノボ
+- カラオケ   
+- うまい飯行く 
+- 旅行  
+- スキー・スノボ
+
+# 技術
+
+- Go
+- Android(少し)
+- docker
+- GCP(少し)
 
 # 音楽
-   
+
 Mrs. GREEN APPLE , Alexandros , ヨルシカ ,   
-RADWIMPS , Eve , Taylor Swift , ピノキオピー ,   
-n-buna , Orangestar , Phonk   
+RADWIMPS , Eve , Taylor Swift , Wurts ,   
+HALVES, Saucy Dog , Phonk   
 
 # アニメ
 好きなアニメが多すぎて書ききれませんが、
@@ -30,6 +37,6 @@ n-buna , Orangestar , Phonk
 
 # 漫画
 ジャンプは好きな漫画が多いです。
-後は、東京喰種の絵がとても好きです。
+東京喰種の絵がとても好きです。
 
 
