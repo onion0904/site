@@ -1,13 +1,13 @@
 # AizuHack2023
 - 会津大学のマップ
 - 期間:2023年5/8～7/16
-- 使用技術：HTML、CSS、JS
+- 使用技術:HTML、CSS、JS
 - [発表スライド](https://docs.google.com/presentation/d/1bNdvSHjQJgkc3sBTr5cJnLq0E8cXCkGoAFBnnhr3UHI/edit#slide=id.p)
 
 # サマーワークショップ
 - 大規模言語モデルを用いてエージェントを作り、シミュレーションする
-- 期間：2023年8/7～8/9
-- 使用技術：chatGPT4
+- 期間:2023年8/7～8/9
+- 使用技術:chatGPT4
 - [発表スライド](https://docs.google.com/presentation/d/1alyUAb6tUoM08EhsggOKDYZrV9TXqdYqYkxPsib9XRM/edit#slide=id.p)
 
 # 爆弾解除ゲーム
@@ -18,7 +18,7 @@
 # 学祭ハッカソン2023
 - 赤べこに色を付けて捕まえるVRゲーム
 - 期間:2023年9/21～11/5
-- 使用：Unity,Blender
+- 使用:Unity,Blender
 - [発表スライド](https://docs.google.com/presentation/d/1i0PI1zpz9Oe2e8QqRtotJOiy9F8v6RGSnrzWsfe93Lc/edit#slide=id.p)
 - [デモ動画1](https://www.youtube.com/watch?v=d3D2mojTei0)
 - [デモ動画2](https://www.youtube.com/watch?v=_9ciDB2G3sM)
@@ -30,7 +30,7 @@
 
 # Androidに入門してみた
 - 期間:2024年4/20～5/10
-- 使用技術：Jetpack Compose
+- 使用技術:Jetpack Compose
 - [発表スライド](https://www.canva.com/design/DAGEhBm-_Lo/QEeiRnykr7HkxeQiPZXEFA/edit?utm_content=DAGEhBm-_Lo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # TodoList
@@ -43,3 +43,10 @@
 - 使用技術: echo,gorm,MySQL,docker,GCP,Mailgun...
 - [github](https://github.com/onion0904/segon_pix)
 - [発表スライド](https://www.canva.com/design/DAGTpGOK5uw/5Z6bmOWyww7FIWXDiXPEbg/edit)
+- フロント未完成
+
+# CarShareSystem
+- 期間:2024年12月8日～
+- 使用予定技術: echo,sqlboiler,MySQL,docker,GraphQL...
+- [github](https://github.com/onion0904/CarShareSystem)
+- 現在開発中
