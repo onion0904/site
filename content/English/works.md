@@ -47,6 +47,6 @@
 
 # CarShareSystem
 - 期間:2024年12月8日～
-- 使用予定技術: echo,sqlboiler,MySQL,docker,GraphQL...
+- 使用予定技術: echo,sqlc,MySQL,docker,GraphQL,gomock...
 - [github](https://github.com/onion0904/CarShareSystem)
-- 現在開発中
+- フロント未完成
