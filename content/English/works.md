@@ -45,8 +45,13 @@
 - [発表スライド](https://www.canva.com/design/DAGTpGOK5uw/5Z6bmOWyww7FIWXDiXPEbg/edit)
 - フロント未完成
 
-# CarShareSystem
+# CarShareSystem(local用)
 - 期間:2024年12月8日～
-- 使用予定技術: echo,sqlc,MySQL,docker,GraphQL,gomock...
+- 使用予定技術: GraphQL,sqlc,JWT,MySQL,docker,gomock...
 - [github](https://github.com/onion0904/CarShareSystem)
-- フロント未完成
+
+# carshare-backend(public用)
+- 期間:2025年5月4日～5月7日
+- 使用予定技術: GraphQL,sqlc,supabase(postgresql),JWT,docker,koyeb,gomock...
+- [github](https://github.com/onion0904/carshare-backend)
+- [APIのplayground](https://my-go-api-onion0904-2d2c780f.koyeb.app/)
