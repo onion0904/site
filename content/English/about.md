@@ -23,7 +23,6 @@ slug = ""
 - Go
 - Android(少し)
 - docker
-- GCP(少し)
 
 # 音楽
 

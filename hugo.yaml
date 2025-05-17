@@ -105,6 +105,8 @@ params:
           url: "https://github.com/onion0904"
         - name: email
           url: "mailto:Takerudaze0904@gmail.com"
+        - name: speakerdeck
+          url: "https://speakerdeck.com/onion0904"
 
     assets:
         favicon: "ocGvg5tH5gfqsDS1715839141_1715839204.png"
