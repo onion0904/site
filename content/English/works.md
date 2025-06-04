@@ -55,3 +55,15 @@
 - 使用技術: GraphQL,sqlc,supabase(postgresql),JWT,docker,koyeb,gomock...
 - [github](https://github.com/onion0904/carshare-backend)
 - [APIのplayground](https://my-go-api-onion0904-2d2c780f.koyeb.app/)
+
+# CLI日記
+- onion7日間チャレンジDay1
+- 使用技術: go(database/sql...),postgresql
+- [github](https://github.com/onion0904/day-one-sql)
+- [zennの記事](https://zenn.dev/onion0904/articles/ff700890522030)
+
+# resizon(画像サイズ変更CLIツール)
+- onion7日間チャレンジDay2
+- 使用技術: go(image,sync...)
+- [github](https://github.com/onion0904/day-two-concurrency)
+- [zennの記事](https://zenn.dev/onion0904/articles/dddf46cdceccb0)
