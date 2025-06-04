@@ -50,7 +50,7 @@ languages:
             url: works/
           - identifier: Blog
             name: Blogs
-            url: https://blog-40i.pages.dev/
+            url: https://zenn.dev/onion0904
       menu:
         main:
           - identifier: About
@@ -63,7 +63,7 @@ languages:
             weight: 2
           - identifier: Blog
             name: Blogs
-            url: https://blog-40i.pages.dev/
+            url: https://zenn.dev/onion0904
             weight: 3
 
 outputs:
