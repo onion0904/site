@@ -42,21 +42,16 @@
 # segon_pix(画像投稿アプリ)
 - 期間:2024年9月27～
 - 使用技術: echo,gorm,MySQL,docker,GCP,Mailgun...
-- [github](https://github.com/onion0904/segon_pix)
+- [backend_github](https://github.com/onion0904/segon_pix)
 - [発表スライド](https://www.canva.com/design/DAGTpGOK5uw/5Z6bmOWyww7FIWXDiXPEbg/edit)
 
-# CarShareSystem(local用)
-- 友達間での車シェア管理API
-- 期間:2024年12月8日～4月12日
-- 使用技術: GraphQL,sqlc,JWT,MySQL,docker,gomock...
-- [github](https://github.com/onion0904/CarShareSystem)
-
-# carshare-backend(public用)
-- 友達間での車シェア管理API
+# CarShareSystem
+- 友達間での車シェア管理サイト
 - 期間:2025年5月4日～5月7日
 - 使用技術: GraphQL,sqlc,supabase(postgresql),JWT,docker,koyeb,gomock...
 - [github](https://github.com/onion0904/carshare-backend)
 - [APIのplayground](https://my-go-api-onion0904-2d2c780f.koyeb.app/)
+- [紹介スライド](https://www.canva.com/design/DAGqTaMpiLk/7ug5nBDzY_GgdSjSqi9JGw/edit?utm_content=DAGqTaMpiLk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # CLI日記
 - onion7日間チャレンジDay1
