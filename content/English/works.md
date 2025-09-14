@@ -11,7 +11,7 @@
 - [発表スライド](https://docs.google.com/presentation/d/1alyUAb6tUoM08EhsggOKDYZrV9TXqdYqYkxPsib9XRM/edit#slide=id.p)
 
 # 爆弾解除ゲーム
-- マニュアルに沿って配線を抜いたり、リモコン操作をして爆弾を解除するゲーム 
+- マニュアルに沿って配線を抜いたり、リモコン操作をして爆弾を解除するゲーム
 - 期間:2023年9/21～11/5
 - 使用技術：ラズパイ,indoor corgi
 - [発表スライド](https://docs.google.com/presentation/d/1wqVJeucgyQWxvbJTZSijPzHjqHCjn7hjbSoLazQQhK4/edit#slide=id.g261f217e816_0_5)
@@ -39,18 +39,19 @@
 - 使用技術: gin,gorm,MySQL
 - [github](https://github.com/onion0904/my-todo-app)
 
-# segon_pix(画像投稿アプリ)
+# segon_pix-backend
+- 内容: 画像投稿アプリのバックエンド開発(友達がフロントエンド)
 - 期間:2024年9月27～
-- 使用技術: echo,gorm,MySQL,docker,GCP,Mailgun...
-- [backend_github](https://github.com/onion0904/segon_pix)
+- 使用技術: echo,gorm,MySQL,docker,GCS
+- [backend_github](https://github.com/onion0904/segon_pix-backend)
 - [発表スライド](https://www.canva.com/design/DAGTpGOK5uw/5Z6bmOWyww7FIWXDiXPEbg/edit)
 
-# CarShareSystem
-- 友達間での車シェア管理サイト
-- 期間:2025年5月4日～5月7日
+# ItemShare
+- グループで物のシェア管理するweb app
+- 期間: 2025年5月4日～
 - 使用技術: GraphQL,sqlc,supabase(postgresql),JWT,docker,koyeb,gomock...
-- [github](https://github.com/onion0904/carshare-backend)
-- [APIのplayground](https://my-go-api-onion0904-2d2c780f.koyeb.app/)
+- [githubバックエンド](https://github.com/onion0904/itemshare-backend)
+- [githubフロントエンド](https://github.com/onion0904/itemshare-frontend)
 - [紹介スライド](https://www.canva.com/design/DAGqTaMpiLk/7ug5nBDzY_GgdSjSqi9JGw/edit?utm_content=DAGqTaMpiLk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # CLI日記
