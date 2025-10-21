@@ -48,9 +48,8 @@ languages:
             url: about/
           - name: Works
             url: works/
-          - identifier: Blog
-            name: Blogs
-            url: https://zenn.dev/onion0904
+          - name: Intern
+            url: intern/
       menu:
         main:
           - identifier: About
@@ -61,10 +60,10 @@ languages:
             name: Works
             url: works/
             weight: 2
-          - identifier: Blog
-            name: Blogs
-            url: https://zenn.dev/onion0904
-            weight: 3
+          - identifier: Intern
+            name: Intern
+            url: intern/
+            weight: 3  
 
 outputs:
     home:
@@ -107,6 +106,8 @@ params:
           url: "mailto:takerudaze0904@gmail.com"
         - name: speakerdeck
           url: "https://speakerdeck.com/onion0904"
+        - name: zenn
+          url: "https://zenn.dev/onion0904"
 
     assets:
         favicon: "ocGvg5tH5gfqsDS1715839141_1715839204.png"
