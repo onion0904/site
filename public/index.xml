@@ -13,14 +13,21 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 29 Dec 2022 02:04:05 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>About Me HN: 鬼オン(onion) 名前: 太田丈翔(おおた たける) 誕生日: 2004/09/04 所属: 会津大学31期生(zli,Rems) 出身: 埼玉 趣味 カラオケ うまい飯行</description>
+      <description>About Me HN: 鬼オン(onion) 名前: 太田丈翔(おおた たける) 誕生日: 2004/09/04 所属: 会津大学 31 期生,Zli 出身: 埼玉 趣味 カラオケ 美味しいご飯屋探し 旅行 ス</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intern/</guid>
+      <description>株式会社Stack 期間:2025年3月～ test,refactoring,linter,mutationの追加などを幅広く携わらせていただい</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/works/</guid>
-      <description>まとめてからやります</description>
+      <description>AizuHack2023 会津大学のマップ 期間:2023年5/8～7/16 使用技術:HTML、CSS、JS 発表スライド サマーワークショップ 大規模言語モデルを用いてエ</description>
     </item>
   </channel>
 </rss>
