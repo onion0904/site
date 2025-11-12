@@ -19,9 +19,11 @@
 
 >3daysのチームハッカソンインターンに参加しました。
 >「料理を楽しく、手順をより直感的に理解できるUI体験」を目指し、React Flowを用いて依存関係を矢印で表現する有向グラフを実装しました。DB設計では、手順・材料・動画のセグメント情報などを正規化して保持するデータ構造を設計しました。API開発では提供されていたデータとReact Flowで必要なデータの形をそろえるためにAIをかませて適切な必要な形式にしたりしました。その結果、3チーム中最優秀賞を受賞し、技術面・提案面双方で高い評価を得ました。
+[発表スライド](https://www.canva.com/design/DAGyMdTL6XQ/g7DZEG1K_egWotAbKJgIMA/edit?utm_content=DAGyMdTL6XQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # 株式会社LIFULL
 - 期間:2025年9/16~22
 
 >5daysのチーム開発インターンに参加しました。
 >LIFULLの不動産APIを使用して好きなものを開発するという内容でした。利他の精神で開発したりなど、LIFULLの会社の文化に沿ってインターンをしました。 開発初心者の方が多かったので進捗を確認したり、方向性を合わせたり、などリーダーっぽい役割も担当しました。このインターンでは開発手法(WBSやどのくらい詳細に決めるべきか)やコミュニケーション(毎日チームメンバー同士の良かったところと頑張った方がいいところを報告しあう)などの実際やってみてわかるようなことを多く学びました。
+[発表スライド(権限あり)](https://docs.google.com/presentation/d/1p6i2V5fxtziqdJfpQGS7RznwQ8jyDpL6rL1L3oNYAwQ/edit?usp=sharing)
